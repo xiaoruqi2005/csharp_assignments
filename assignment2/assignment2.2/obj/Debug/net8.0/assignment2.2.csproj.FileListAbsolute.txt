@@ -1,0 +1,15 @@
+D:\Cpp_project\C#\assignment2\assignment2.2\bin\Debug\net8.0\assignment2.2.exe
+D:\Cpp_project\C#\assignment2\assignment2.2\bin\Debug\net8.0\assignment2.2.deps.json
+D:\Cpp_project\C#\assignment2\assignment2.2\bin\Debug\net8.0\assignment2.2.runtimeconfig.json
+D:\Cpp_project\C#\assignment2\assignment2.2\bin\Debug\net8.0\assignment2.2.dll
+D:\Cpp_project\C#\assignment2\assignment2.2\bin\Debug\net8.0\assignment2.2.pdb
+D:\Cpp_project\C#\assignment2\assignment2.2\obj\Debug\net8.0\assignment2.2.GeneratedMSBuildEditorConfig.editorconfig
+D:\Cpp_project\C#\assignment2\assignment2.2\obj\Debug\net8.0\assignment2.2.AssemblyInfoInputs.cache
+D:\Cpp_project\C#\assignment2\assignment2.2\obj\Debug\net8.0\assignment2.2.AssemblyInfo.cs
+D:\Cpp_project\C#\assignment2\assignment2.2\obj\Debug\net8.0\assignment2.2.csproj.CoreCompileInputs.cache
+D:\Cpp_project\C#\assignment2\assignment2.2\obj\Debug\net8.0\assignment2.2.sourcelink.json
+D:\Cpp_project\C#\assignment2\assignment2.2\obj\Debug\net8.0\assignment2.2.dll
+D:\Cpp_project\C#\assignment2\assignment2.2\obj\Debug\net8.0\refint\assignment2.2.dll
+D:\Cpp_project\C#\assignment2\assignment2.2\obj\Debug\net8.0\assignment2.2.pdb
+D:\Cpp_project\C#\assignment2\assignment2.2\obj\Debug\net8.0\assignment2.2.genruntimeconfig.cache
+D:\Cpp_project\C#\assignment2\assignment2.2\obj\Debug\net8.0\ref\assignment2.2.dll

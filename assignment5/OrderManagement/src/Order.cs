@@ -7,6 +7,13 @@ public class Order : IComparable<Order>
     public DateTime OrderDate { get; set; }
     public List<OrderDetail> OrderDetails { get; set; }
 
+    public Order Clone() => new Order
+    {
+        OrderId = OrderId,
+        Customer = Customer,
+        OrderDate = OrderDate,
+        OrderDetails = OrderDetails.Select(od => od.Clone()).ToList()
+    };
     // 添加无参构造函数
     public Order()
     {
